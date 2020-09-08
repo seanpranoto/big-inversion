@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 
-import PersonCard from './component/myNewComponent';
+import PersonCard from './component/myNewComponent.js';
 
 const App = () => {
   return (
